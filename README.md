@@ -1,4 +1,4 @@
-# CSC 466 Knowledge Discovery from Data, Fall 2023
+# CSC 466 Knowledge Discovery from Data
 
 This repo consists of labs and a final project.
 
